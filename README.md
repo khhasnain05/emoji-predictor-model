@@ -70,4 +70,3 @@ emoji-predictor/
 
 ## 👨‍💻 Author
 **Khawaja Hasnain**
----
