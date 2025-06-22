@@ -36,7 +36,7 @@ This model is fine-tuned on real-world tweets using the `tweet_eval` dataset, an
 
 1. ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/emoji-predictor.git
+git clone https://github.com/khhasnain05/emoji-predictor.git
 cd emoji-predictor
 ```
 
