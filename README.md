@@ -12,7 +12,7 @@ This model is fine-tuned on real-world tweets using the `tweet_eval` dataset, an
 - 🎯 **Output**: The most suitable emoji (e.g., 😊)
 - 🧠 **Model**: Fine-tuned `roberta-base`
 - 🗂️ **Dataset**: `cardiffnlp/tweet_eval` (emoji subset with 20 emoji labels)
-- 🌐 **UI**: Built using Gradio for quick testing
+- 🌐 **UI**: Built using **Gradio** for quick testing
 
 ---
 
@@ -69,5 +69,5 @@ emoji-predictor/
 ---
 
 ## 👨‍💻 Author
-*Khawaja Hasnain*
+**Khawaja Hasnain**
 ---
