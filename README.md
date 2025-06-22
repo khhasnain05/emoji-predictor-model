@@ -16,13 +16,9 @@ This model is fine-tuned on real-world tweets using the `tweet_eval` dataset, an
 
 ---
 
----
-
 ## 💻 Demo
 
 ![Screenshot 2025-06-22 174950](https://github.com/user-attachments/assets/c8259a5a-8250-4605-adbf-2b9c44944f41)
-
----
 
 ---
 
@@ -36,23 +32,24 @@ This model is fine-tuned on real-world tweets using the `tweet_eval` dataset, an
 
 ---
 
----
-
 ## 🚀 Try It Yourself (Locally)
 
 1. **Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/emoji-predictor.git
 cd emoji-predictor
+```
 
 2. **Install Dependencies**
 ```bash
 pip install -r requirements.txt
+```
 
 3. **Download Trained Model**
 
 4. **Run the App**
 ```bash
 python app.py
+```
 
 ---
