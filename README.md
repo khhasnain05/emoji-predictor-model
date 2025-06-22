@@ -69,5 +69,5 @@ emoji-predictor/
 ---
 
 ## 👨‍💻 Author
-**Khawaja H
+**Khawaja Hasnain*
 ---
