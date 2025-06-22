@@ -47,7 +47,8 @@ pip install -r requirements.txt
 
 3. ### Download Trained Model
 Download the trained model from the link below and extract the folder `complete-emoji-model` into the root of this project.
-[Download the model](https://onedrive.live.com/?id=root&cid=39473082CB42A58E)
+
+- [Download the model](https://onedrive.live.com/?id=root&cid=39473082CB42A58E)
 
 4. ### Run the App
 ```bash
