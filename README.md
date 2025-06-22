@@ -24,6 +24,18 @@ This model is fine-tuned on real-world tweets using the `tweet_eval` dataset, an
 
 ---
 
+---
+
+## ⚙️Tech Stack
+
+- 🤗  **Hugging Face Transformers**
+- 🐍  **Python**
+- 📊  **TweetEval Dataset**
+- 🔠  **RoBERTa Model**
+- 🌐  **Gradio Web Interface**
+
+---
+
 ## 🚀 Try It Yourself (Locally)
 
 ```bash
