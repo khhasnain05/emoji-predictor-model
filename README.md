@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ```
 
 3. ### Download Trained Model
-Download the trained model from the link below and extract the folder final_emoji_model_v2/ into the root of this project.
+Download the trained model from the link below and extract the folder **complete_emoji_model** into the root of this project.
 
 4. ### Run the App
 ```bash
@@ -63,5 +63,12 @@ emoji-predictor/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── final_emoji_model_v2/  ← Download separately
+└── complete_emoji_model  ← Download separately
 ```
+
+---
+
+## 👨‍💻 Author
+**Khawaja Hasnain**
+
+---
